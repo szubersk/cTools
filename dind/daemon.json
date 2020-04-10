@@ -1,0 +1,17 @@
+{
+  "icc": false,
+  "iptables": true,
+  "ipv6": false,
+  "hosts": [
+    "unix:///var/run/docker.sock"
+  ],
+  "live-restore": false,
+  "log-driver": "none",
+  "log-opts": {
+    "max-size": "100m"
+  },
+  "max-concurrent-downloads": 20,
+  "max-concurrent-uploads": 20,
+  "shutdown-timeout": 5,
+  "userland-proxy": false
+}

@@ -1,0 +1,5 @@
+{
+  "baseImage": "busybox:latest",
+  "targetImage": "template",
+  "targetTag": "tag"
+}
