@@ -1,5 +1,5 @@
 {
   "baseImage": "alpine:3.11.5",
-  "targetImage": "szubersk/test",
-  "targetTag": "latest"
+  "targetImage": "szubersk/dind",
+  "targetTag": "19.03.8"
 }
